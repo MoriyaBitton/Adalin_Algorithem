@@ -1,3 +1,3 @@
 # Review of Neurocomputation Course
 
-### Ariel University || 2021
+### Ariel University || Spring - 2021
