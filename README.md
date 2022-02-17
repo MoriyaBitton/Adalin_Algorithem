@@ -1,3 +1,3 @@
 # Review of Neurocomputation Course
 
-### Spring - 2021 || Ariel University, Israel
+## Ariel University, Israel || Semester B 2021
